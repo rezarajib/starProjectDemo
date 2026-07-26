@@ -5,12 +5,24 @@ import {
   useLoaderData,
 } 
  from 'react-router';
+import Root from '../Pages/Root/Root';
+import Errorpage from '../Pages/Errorpage/Errorpage';
+import Home from '../Pages/Home/Home';
 
 
 export  const router = createBrowserRouter([
   {
     path: "/",
-    element: <div>Hello World</div>,
+    Component:Root,
+    errorElement:<Errorpage></Errorpage>,
+    children:[
+      {
+        index:true,
+        path:"/",
+        Component:Home
+
+      }
+    ]
   },
 ]);
 
