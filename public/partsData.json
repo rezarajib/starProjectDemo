@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "High-Performance Turbocharger",
+    "category": "Engine Parts",
+    "price": 749.99,
+    "rating": 4.8,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1486006920555-c77dce18193b?auto=format&fit=crop&q=80&w=600",
+    "description": "Boost your engine horsepower and efficiency with this premium ceramic ball-bearing turbocharger."
+  },
+  {
+    "id": 2,
+    "name": "Drilled & Slotted Brake Rotors",
+    "category": "Braking System",
+    "price": 220.50,
+    "rating": 4.9,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&q=80&w=600",
+    "description": "Maximum heat dissipation and superior stopping power for heavy-duty and performance driving."
+  },
+  {
+    "id": 3,
+    "name": "LED Matrix Headlight Assembly",
+    "category": "Lighting",
+    "price": 310.00,
+    "rating": 4.7,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&q=80&w=600",
+    "description": "Ultra-bright custom LED matrix headlights featuring sequential turn signals and modern DRL styling."
+  },
+  {
+    "id": 4,
+    "name": "Adjustable Coilover Suspension Kit",
+    "category": "Suspension",
+    "price": 850.00,
+    "rating": 4.9,
+    "inStock": false,
+    "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&q=80&w=600",
+    "description": "Fine-tune your vehicle's ride height, damping, and track handling with complete ride adjustment capabilities."
+  },
+  {
+    "id": 5,
+    "name": "Iridium Spark Plugs (Set of 4)",
+    "category": "Engine Parts",
+    "price": 48.99,
+    "rating": 4.6,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738?auto=format&fit=crop&q=80&w=600",
+    "description": "Ensures extreme ignitability, improved throttle response, and longer service life for your engine."
+  },
+  {
+    "id": 6,
+    "name": "Synthetic Cold Air Intake System",
+    "category": "Engine Parts",
+    "price": 195.00,
+    "rating": 4.7,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1489824904134-891ab64532f1?auto=format&fit=crop&q=80&w=600",
+    "description": "Increases airflow into your engine for higher horsepower gains and a deeper engine exhaust note."
+  },
+  {
+    "id": 7,
+    "name": "Ceramic Brake Pad Set",
+    "category": "Braking System",
+    "price": 85.00,
+    "rating": 4.8,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?auto=format&fit=crop&q=80&w=600",
+    "description": "Low-dust, noise-free ceramic brake pads designed to provide consistent, reliable braking performance."
+  },
+  {
+    "id": 8,
+    "name": "Heavy-Duty Alternator 160A",
+    "category": "Electrical",
+    "price": 245.00,
+    "rating": 4.5,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&q=80&w=600",
+    "description": "Provides stable electrical current for high-end audio setups, extra lighting, and heavy-duty daily driving."
+  }
+]
